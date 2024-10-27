@@ -46,6 +46,8 @@ button:active {
 
 .text {
     display: block;
+
+    padding: 7px;
     font-family: sans-serif;
 
     color: black;
